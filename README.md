@@ -1,5 +1,5 @@
 # WangJiangJiaoZi
-本仓库旨在记载直冲熊（QQ：745392994 GitHub:@WangJiangJiaoZi）的弱智装逼言论。
+本仓库旨在记载直冲熊（QQ：745392994 GitHub:[WangJiangJiaoZi](https://github.com/WangJiangJiaoZi)）的弱智装逼言论。
 
 欢迎Pull Request来一起痛打装逼熊。
 
